@@ -1,2 +1,3 @@
-# rc
-this is my first repo.
+# rc-demo
+This is my first repo.
+Author - Rishi Chouksey
